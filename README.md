@@ -1,2 +1,1 @@
-# ZCash-App
-A simple E-commerce website for shopping
+# ZTrade-App
